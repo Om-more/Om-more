@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Om More 👋
 
-<!--
-**Om-more/Om-more** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science professional and enthusiast, with an M.Tech in Data Science from COEP Technological University,and hands-on industry experience in data engineering, analytics, and machine learning.
 
-Here are some ideas to get you started:
+### What I Do
+- **Data Engineering:** Build ETL/ELT pipelines and process large datasets using PySpark, Databricks, and Azure.
+- **Data Analytics & BI:** Transform raw data into actionable insights through SQL, Python, and Power BI/Tableau dashboards.
+- **Machine Learning & AI:** Develop predictive models and AI-powered applications using Scikit-learn, TensorFlow, and LLMs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Had a professional working experience in field of Data science with hands-on experince on LLMs, GenAI, Data Analytics, Client interaction.
+
+### Tech Stack
+`Python` · `SQL` · `PySpark` · `Databricks` · `Azure` · `Pandas` · `Scikit-learn` · `TensorFlow` · `Power BI` · `Tableau` · `FastAPI` · `RAG/LLMs`
+
+I enjoy solving real-world problems by combining data engineering, analytics, and AI to build practical, data-driven solutions.
