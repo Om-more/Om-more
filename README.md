@@ -1,6 +1,6 @@
 # Hi, I'm Om More 👋
 
-I'm a Data Science professional and enthusiast, with an M.Tech in Data Science from COEP Technological University,and hands-on industry experience in data engineering, analytics, and machine learning.
+I'm a Data Science professional and enthusiast, with degree of M.Tech in Data Science from COEP Technological University,and hands-on industry experience in data engineering, analytics, and machine learning.
 
 ### What I Do
 - **Data Engineering:** Build ETL/ELT pipelines and process large datasets using PySpark, Databricks, and Azure.
